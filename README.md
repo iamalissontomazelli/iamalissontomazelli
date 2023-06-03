@@ -8,7 +8,7 @@
 - 💬 Ask about anything...
 - ⚡ Old Gamer.. 
 
-Skills: REACT / JS / HTML / CSS
+Skills: HTML / CSS / REACT / JS
 
 - 🔭 I’m currently working on this page. 
 
