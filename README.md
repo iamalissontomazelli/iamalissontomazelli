@@ -10,7 +10,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iamalissontomazelli&bg_color=e5e4e2&color=000000&line=191419&point=c61010&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center"> 
-<a href="[[https://instagram.com/carol_developer](https://www.instagram.com/iamalissontomazelli)](https://www.instagram.com/iamalissontomazelli)" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="[[https://www.instagram.com/iamalissontomazelli](https://www.instagram.com/iamalissontomazelli)](https://www.instagram.com/iamalissontomazelli)" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href="[https://www.youtube.com/channel/UC4cE52N0gKITWoIQs433CRw](https://www.youtube.com/channel/UC4cE52N0gKITWoIQs433CRw)" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href = "mailto:alissonalvez@hotmail.com"> <img src="https://img.shields.io/badge/-Send Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="linkedin.com/in/alisson-soares-alves-tomazelli-10a9354a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
